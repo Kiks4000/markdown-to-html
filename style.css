@@ -16,6 +16,8 @@ img.profil {
 }
 table.Tableau {
     border-color: blueviolet;
+    border-collapse: collapse;
+    border-co
 }
 .description {
     text-align: center;
