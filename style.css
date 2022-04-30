@@ -1,25 +1,41 @@
+html{
+    background-color: rgb(211, 185, 185);
+}
 h1 {
-    color: rgb(65, 174, 96);
+    color: #008000;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
 .quote {
     text-align: center;
-    color: green;
+    color: #008000;
 }
-img.profil {
+.profil {
     border-radius: 50%;
     border: 50px;
     border-color: rgb(250, 0, 0);
     display: block;
     margin: auto;
 }
-table.Tableau {
-    border-color: blueviolet;
-    border-collapse: collapse;
-    border-co
+.tableau {
+    border-color: rgb(0, 0, 0);
+    border-collapse: separate;
+    border: 50;
+}
+.title{
+    background-color: #04AA6D;
+    color: white;
+}
+.data{
+    background-color: rgb(230, 220, 85);
+    color: white;
 }
 .description {
     text-align: center;
-    color: blue;
+    color: #008000;
+}
+hr{
+    border-width: 4;
+    border-color: rgb(125, 109, 109);
+    border-style:groove
 }
