@@ -39,3 +39,6 @@ hr{
     border-color: rgb(125, 109, 109);
     border-style:groove
 }
+.gif{
+    border-radius: 20px;
+}
